@@ -1,3 +1,7 @@
+/**
+ * @author kaysenyim
+ * @see <a href="https://leetcode-cn.com/problems/reverse-integer/">...</a>
+ */
 public class Solution {
     public int reverse(int x) {
         int n = 0;

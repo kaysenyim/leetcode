@@ -1,6 +1,10 @@
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * @author kaysenyim
+ * @see <a href="https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/">...</a>
+ */
 public class Solution {
     public int lengthOfLongestSubstring(String s) {
         int maxLen = 0;

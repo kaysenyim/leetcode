@@ -1,3 +1,7 @@
+/**
+ * @author kaysenyim
+ * @see <a href="https://leetcode-cn.com/problems/longest-palindromic-substring/">...</a>
+ */
 class Solution {
     public String longestPalindrome(String s) {
         int len = s.length();

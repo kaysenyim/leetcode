@@ -1,5 +1,6 @@
 /**
  * @author kaysenyim
+ * @see <a href="https://leetcode-cn.com/problems/palindrome-number/">...</a>
  */
 public class Solution {
     public static boolean isPalindrome(int x) {

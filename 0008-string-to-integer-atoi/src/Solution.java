@@ -1,3 +1,7 @@
+/**
+ * @author kaysenyim
+ * @see <a href="https://leetcode-cn.com/problems/string-to-integer-atoi/">...</a>
+ */
 public class Solution {
     public static int myAtoi(String s) {
         if (s == null || s.length() == 0) {
